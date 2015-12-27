@@ -27,7 +27,7 @@
 
 
             Console.WriteLine();
-            Console.WriteLine("Osszeguk: " + ossz);
+            Console.WriteLine("Összeguk: " + ossz);
             Console.WriteLine("Kulonbseguk: " + kul);
             Console.WriteLine("Hanyadosuk: " + hany);
             Console.WriteLine("Szorzatuk: " + szor);
